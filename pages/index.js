@@ -47,7 +47,7 @@ export default function Home() {
                   ></input>
                 </div>
                 <a className="border-2 border-blue-600 rounded-full px-12 py-2 inline-block font-semibold hover:bg-white hover:text-blue-600 cursor-pointer">
-                  Sign Up
+                  Login
                 </a>
               </div>
             </div>
